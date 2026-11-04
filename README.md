@@ -27,7 +27,7 @@ Aplicación web académica de gestión de productos **en memoria** con Java 17, 
 - Sebastian Borda: coordinación, Maven, Tomcat, integración y GitHub.
 - Parte A — asignar integrante: modelo `Producto` y registro.
 - Parte B — asignar integrante: búsqueda y eliminación.
-- Parte C — asignar integrante: listado, ordenamiento e interfaz JSP.
+- Parte C — Adrian Basurco: listado, ordenamiento e interfaz JSP.
 - Parte D — asignar integrante: pruebas, documentación y evidencias.
 
 ## Pruebas manuales sugeridas
