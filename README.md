@@ -28,7 +28,7 @@ Aplicación web académica de gestión de productos **en memoria** con Java 17, 
 - Ammy Illescas: asignar integrante: modelo `Producto` y registro.
 - Jorge Adrian Illescas: asignar integrante: búsqueda y eliminación.
 - Adrian Basurco: listado, ordenamiento e interfaz JSP.
-- Rodrigo Sifuentes: asignar integrante: pruebas, documentación y evidencias.
+- Rodrigo Sifuentes: pruebas, documentación y evidencias.
 
 ## Pruebas manuales sugeridas
 1. Registrar Teclado (85, 10), Monitor (650, 5) y Mouse (45, 20).
