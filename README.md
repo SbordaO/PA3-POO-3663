@@ -25,10 +25,10 @@ Aplicación web académica de gestión de productos **en memoria** con Java 17, 
 
 ## Integrantes y responsabilidades
 - Sebastian Borda: coordinación, Maven, Tomcat, integración y GitHub.
-- Parte A — asignar integrante: modelo `Producto` y registro.
-- Parte B — asignar integrante: búsqueda y eliminación.
-- Parte C — Adrian Basurco: listado, ordenamiento e interfaz JSP.
-- Parte D — asignar integrante: pruebas, documentación y evidencias.
+- Ammy Illescas: asignar integrante: modelo `Producto` y registro.
+- Jorge Adrian Illescas: asignar integrante: búsqueda y eliminación.
+- Adrian Basurco: listado, ordenamiento e interfaz JSP.
+- Rodrigo Sifuentes: asignar integrante: pruebas, documentación y evidencias.
 
 ## Pruebas manuales sugeridas
 1. Registrar Teclado (85, 10), Monitor (650, 5) y Mouse (45, 20).
@@ -40,7 +40,7 @@ Aplicación web académica de gestión de productos **en memoria** con Java 17, 
 7. Reiniciar Tomcat y comprobar que se vació el inventario.
 
 ## Video de exposición
-Pendiente: agregar URL de YouTube (no listado o público según indique el docente).
+
 
 ## Nota académica
 Proyecto de práctica. Los productos se almacenan en memoria, no en una base de datos. No incluye autenticación ni protección CSRF; no está destinado a producción.
