@@ -40,7 +40,6 @@ Aplicación web académica de gestión de productos **en memoria** con Java 17, 
 7. Reiniciar Tomcat y comprobar que se vació el inventario.
 
 ## Video de exposición
-.
-
+https://youtu.be/irzngl8AfaU
 ## Nota académica
 Proyecto de práctica. Los productos se almacenan en memoria, no en una base de datos. No incluye autenticación ni protección CSRF; no está destinado a producción.
